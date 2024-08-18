@@ -64,7 +64,7 @@ Add the following line to run the script daily at 2 AM:
 0 2 * * * /path/to/backup_and_send.sh
 ```
 
-
+Here is Complete Project: [Auto_Backup.sh](https://github.com/khpcoding/Linux-Tips-Triks/blob/main/Auto_backup.sh)
 
 
 
