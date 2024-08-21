@@ -12,6 +12,7 @@ Linux is a powerful and flexible operating system used by developers, system adm
 
 ## clone project
 To get Projects you can clone this repo : 
-``` bash
+``` bash 
+git clone https://github.com/khpcoding/Linux-Tips-Triks.git 
 ```
 
