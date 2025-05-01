@@ -1,6 +1,4 @@
-Here's the `sshd_config` file converted to a README.md format with a step-by-step explanation of how the configuration works:
 
-```markdown
 # SSH Server (sshd) Configuration Guide
 
 This document explains the security-focused SSH server configuration file (`sshd_config`).
